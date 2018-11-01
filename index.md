@@ -1,37 +1,12 @@
 ## Welcome to GitHub Pages
+<h1> Présentation </h1>
 
-You can use the [editor on GitHub](https://github.com/aureliep86/Hello/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aureliep86/Hello/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h2> Parcours, études, expériences... </h2>
+<body> 
+  <p>Aprés plusieurs années passé à travailler dans le monde de l'animation pour enfant, que ce soit en centre aéré mais aussi dans les écoles (cantine et périscolaire), j'ai décidé de changer de voix en suivant une formation. </p>
+  <p>N'ayant pas réellement fait d'étude (cursus scolaire "classique", filiaire économique et sociale), j'ai décidé de suivre une formation de Vendeuse spécialisée en magasin. Cette formation c'est faite sur huit mois avec deux périodes de stage en entreprise.</p>
+  <p>A l'issus de cette formation, j'ai étais enbaucher dans un entreprise de vente de menuiseries. c'est après 9 années passé dans cette entreprise, que je me suis fait licencier économiquement (liquidation de l'entreprise).</p>
+  <p>Après 9 ans passé dans une entreprise, on se pose forcément des questions, qu'est ce que je vais faire, qu'est ce que j'ai réélement envie de faire... La première chose qui m'est venu à l'esprit est que je ne souhaitais pas retourner dans la vente de produits en magasin.</p>
+  <p>Maintenant, ce qui m'a poussé vers le métier de développeuse Web, c'est tout d'abord un réel attrait pour les métiers du numerique en général. Ces métiers sont à mes yeux des métiers d'avenir.</n>
+  Les devellopeurs Web (le codage) sont, pour moi, à la base de beaucoup de chose. Je n'ai pas envie de savoir uniquement comment ça se passe devant l'écran, j'ai également envie de savoir tout ce qu'il se passe derrière l'écran.</p>
+  <p>Après un premier contact avec vous fin Août lors de la présentation des métiers de dévelopeur Web et Designer Web, j'ai eu plusieurs "exercises" à faire. Effectivement, avant ces 2 mois que j'ai passé devant mon ordinateur, je n'avais jamais codé. Mes après avoir fait et réussi tout les exercises demandés (sur OpenClassrooms : "Comprendre le Web", "Apprenez à créer votre site web avec HTML5 et CSS3", "Apprenez à coder avec JavaScript", et sur FranceIOI : niveau 1 et 2 complet(en python)), j'ai pu me rendre compte de ce qu'étais le codage et je peux donc affirmer aujourd'hui que j'aime ça et que j'ai réellement envie d'apprendre. </p>
