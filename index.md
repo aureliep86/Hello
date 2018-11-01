@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 <h1> Présentation </h1>
 
 <h2> Parcours, études, expériences... </h2>
