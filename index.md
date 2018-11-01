@@ -27,5 +27,7 @@
   <li><a href="https://www.instagram.com/clililuxe/"> Instagram </a></li>
   </ul>
   <p> J'ai également un compte Linkedin </p>
-  <a href="https://www.linkedin.com/in/aurelie-potier-4458b716b/"> Linkedin </a>
+  <ul>
+  <li><a href="https://www.linkedin.com/in/aurelie-potier-4458b716b/"> Linkedin </a></li>
+  </ul>
   
