@@ -1,7 +1,7 @@
 # Hello
 <h1> Présentation </h1>
 
-<h2> Parcours, étude, expérience... </h2>
+<h2> Parcours, études, expériences... </h2>
 <body> 
   <p>Aprés plusieurs années passé à travailler dans le monde de l'animation pour enfant, que ce soit en centre aéré mais aussi dans les écoles (cantine et périscolaire), j'ai décidé de changer de voix en suivant une formation. </p>
   <p>N'ayant pas réellement fait d'étude (cursus scolaire "classique", filiaire économique et sociale), j'ai décidé de suivre une formation de Vendeuse spécialisée en magasin. Cette formation c'est faite sur huit mois avec deux périodes de stage en entreprise.</p>
