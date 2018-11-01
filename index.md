@@ -1,4 +1,4 @@
-<h1> Présentation </h1>
+<h1> Aurélie Potier </h1>
 
 <h2> Parcours, études, expériences... </h2>
   <p>Après plusieurs années passé à travailler dans le monde de l'animation pour enfant, que ce soit en centre aéré mais aussi dans les écoles (cantine et périscolaire), j'ai décidé de changer de voix en suivant une formation. </p>
