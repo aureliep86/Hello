@@ -21,6 +21,9 @@
   <p>Je pense aussi qu'il faudrait que je suive l'actualité numérique, jusqu'aujourd'hui je ne l'ai pas fait (et j'avoue que je viens de passer pas mal de temps sur OpenClassrooms...). En suivant les cours d'OpenClassrooms j'ai bien compris que dans le domaine du WEB tout évolué rapidement et que s'en suivre ce qui ce passe régulièrement on peut vite être perdu.</p>
   
 <h2> Réseaux sociaux... <h2>
-  <p> Comme beaucoup de monde aujourd'hui, je suis inscrite sur les réseaux sociaux (facebook, Instagram...) mais ne suis pas une "grande" utilisatrice de tout ça... Je me connecte de temps en temps.</p>
+  <p> Comme beaucoup de monde aujourd'hui, je suis inscrite sur les réseaux sociaux (facebook, Instagram...) mais ne suis pas une "grande" utilisatrice de tout ça... Je me connecte de temps en temps pour publier des informations familliales...(j'utilise les réseaux sociaux pour communiquer avec ma famille principalement)</p>
   <a href="https://www.facebook.com/aurelie.potier.71"> Facebook </a>
+  <a href="https://www.instagram.com/clililuxe/"> Instagram </a>
+  <p> J'ai également un compte Linkedin </p>
+  <a href="https://www.linkedin.com/in/aurelie-potier-4458b716b/> Linkedin </a>
   
