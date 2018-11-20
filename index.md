@@ -1,11 +1,3 @@
-<doctype html>
-<html>
-  <head>
-  <meta charset="utf-8"/>
-  <title> Présentation </title>
-  </head>
-  
-<body>
 <h1> Aurélie Potier </h1>
 
 <h2> Parcours, études, expériences... </h2>
@@ -38,6 +30,3 @@
   <ul>
   <li><a href="https://www.linkedin.com/in/aurelie-potier-4458b716b/"> Linkedin </a></li>
   </ul>
-  
-</body> 
-</html>
