@@ -2,7 +2,7 @@
 <html>
   <head>
   <meta charset="utf-8"/>
-    <title> Présentation </title>
+  <title> Présentation </title>
   </head>
   
 <body>
@@ -40,3 +40,4 @@
   </ul>
   
 </body> 
+</html>
